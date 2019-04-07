@@ -22,6 +22,7 @@ Hmb2g-jaxb.iml
 *.*~
 *~
 .merge_file*
+target/*
 
 #####################
 # Gradle Wrapper
